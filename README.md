@@ -1,2 +1,27 @@
 # customer_shopping_behavior_analysis
 Data analytics project showcasing customer shopping behavior analysis using Python, SQL and Power BI
+                BUSINESS PROBLEM
+                           ↓
+              DATASET COLLECTION
+                           ↓
+                DATA UNDERSTANDING
+                           ↓
+              DATA PREPROCESSING
+                   (Python / Pandas)
+                           ↓
+                  CLEAN DATASET
+                           ↓
+               DATABASE STORAGE
+                  (SQL Server)
+                           ↓
+                 SQL ANALYSIS
+                           ↓
+              BUSINESS QUESTIONS
+                           ↓
+                POWER BI ANALYSIS
+                           ↓
+               INTERACTIVE DASHBOARD
+                           ↓
+                INSIGHTS & FINDINGS
+                           ↓
+             BUSINESS RECOMMENDATIONS
